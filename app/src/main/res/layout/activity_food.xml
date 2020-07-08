@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Food">
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        app:srcCompat="@drawable/food1" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/Food1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:layout_marginTop="180dp"
+                android:background="#FFFFFF"
+                android:text="الدعاء عند إفطار الصائم"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Food2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="الدعاء قبل الطعام"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Food3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="الدعاء عند الفراغ من الطعام"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Food4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="دعاء الضيف لصاحب البيت"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Food5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="التعريض بالدعاء لطلب الطعام والمشرب"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Food6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="الدعاء اذا أفطر عند أهل البيت"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Food7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="دعاء الصائم إذا حضر الطعام ولم يفطر"
+                android:textSize="24dp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

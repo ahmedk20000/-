@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+<alpha android:duration="6000"
+    android:fromAlpha="0.0"
+    android:toAlpha="1.0"
+    />
+    //duration for determined the beriod of animation
+    //from alfa to detrmind the start of animation
+    //to alfa to deremined the final beriod of the hidden then go to her class in the activity
+</set>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Patient">
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        app:srcCompat="@drawable/patient" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/Blt1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="ما يفعل ويقول من أحس ألما في جسده"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Blt2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="دعاء زيارة القبور"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Blt3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="مايعوذ به الأولاد"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Blt4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="الدعاء للمريض في عيادته"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Blt5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="فضل زيارة المريض"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Blt6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="دعاء المريض الذي يئس من حياته"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Blt7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="تلقين المحتضر"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Blt8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="الدعاء عن إغماض الميت"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Blt9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="الدعاء للميت أثناء الصلاة عليه"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Blt10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="الدعاء للفرط في الصلاة عليه"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Blt11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="دعاء التعزية"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Blt12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="الدعاء عند إدخال الميت للقبر"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Blt13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="الدعاء بعد دفن الميت"
+                android:textSize="24dp" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

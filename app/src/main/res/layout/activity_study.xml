@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".study">
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        app:srcCompat="@drawable/study1" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/study1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="الإعانة علي طلب العلم وقوة الحفظ"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/study2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="دعاء قبل الإمتحان"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/study3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="عند التوجه للإمتحان"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/study5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="عند دخول قاعة الإمتحان"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/study6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="أثناء الإمتحان"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/study7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="عند تعسر الإمتحان"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/study8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="عند نهاية الإجابة"
+                android:textSize="24dp" />
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".travell">
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        app:srcCompat="@drawable/travel1" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/travel1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="دعاء الركوب"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/travel2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="دعاء السفر"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/travel3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="دعاء دخول القرية أوالبلدة"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/travel4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="دعاء دخول السوق"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/travel5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="الدعاء إذا تعس المركوب"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/travel6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="دعاء المسافر للمقيم"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/travel7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="دعاء المقيم للمسافر"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/travel8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="التكبير والتسبيح في سير السفر"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/travel9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="دعاء المسافر إذا أسحر"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/travel10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="الدعاء إذا نزل منزلا في سفر أوغيره"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/travel11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="ذكر الرجوع من السفر"
+                android:textSize="24dp" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Deal">
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        app:srcCompat="@drawable/deal1" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/Deal1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="ما يقول المسلم إذا زكي"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Deal2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="ما يقول المسلم إذا مدح المسلم"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Deal3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="الدعاء لمن سببته"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Deal4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="إفشاء السلام"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Deal5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="كيف يرد السلام علي الكافر إذا سلم"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Deal6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="الدعاء لمن قال بارك الله فيك"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Deal7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="الدعاء لمن أقرض عند القضاء"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Deal8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="الدعاء لمن عرض عليك ماله"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Deal9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="الدعاء لمن قال إني أحبك في الله"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Deal10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="تهنئة المولود له وجوابه"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Deal11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="مايقول الصائم إذا سابه أحد"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Deal12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="دعاء العطاس"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Deal13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="ما يقال للكافر إذا عطس فحمد الله"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Deal14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="دعاء المتزوج وشراء الدابة"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Deal15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="دعاء الغضب"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Deal16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="دعاء من رأي مبتلي"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Deal17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="ما يقال في المجلس"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Deal18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="كفارة المجلس"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Deal19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="الدعاء لمن قال غفر الله لك"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Deal20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="الدعاء لمن صنع إليك معروفا"
+                android:textSize="24dp" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

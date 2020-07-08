@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Water">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        app:srcCompat="@drawable/sala1" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/Water1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="مايقال قبل الوضوء"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Water2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="مايقال بعد الوضوء"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Water3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="دعاء الذهاب الي بيت الله"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Water4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="دعاء الدخول إلي بيت الله"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Water5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="دعاء الخروج من بيت الله"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Water6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="مايقال أثناء الأذان"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Water7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="دعاء الاستفتاح"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Water8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="دعاء الركوع"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Water9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="دعاء الرفع من الركوع"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Water10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="دعاء السجود"
+                android:textSize="24dp" />
+
+
+            <Button
+                android:id="@+id/Water11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="دعاء الجلسة بين السجدتين"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Water12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="دعاء سجدة التلاوة"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Water13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="التشهد"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Water14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="الدعاء بعد التشهد وماقبل السلام"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Water15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="الصلاة علي النبي بعد التشهد"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Water16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="الأذكار بعد السلام من الصلاة"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Water17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="دعاء قنوت الوتر"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Water18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="الذكر عقب السلام من الوتر"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Water19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="دعاء الوسوسة في الصلاة والقراءة"
+                android:textSize="24dp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

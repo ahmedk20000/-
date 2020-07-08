@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".hogg">
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        app:srcCompat="@drawable/hag1" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/Hag1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="كيف يلبي المحرم في الحج أوالعمرة"
+                android:textSize="24dp"
+                tools:layout_editor_absoluteX="6dp"
+                tools:layout_editor_absoluteY="6dp" />
+
+            <Button
+                android:id="@+id/Hag2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="التكبير إذا أتي الحجر الأسود"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Hag3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="الدعاء بين الركن اليماني والحجر الأسود"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Hag4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="دعاء الوقوف علي الصفا والمروة"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Hag5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="الدعاء يوم عرفة"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Hag6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="الذكر عند المشعر الحرام"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Hag7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="التكبير عند رمي الجمار مع كل حصاة"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/Hag8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#FFFFFF"
+                android:text="مايقول عند الذبح أوالنحر"
+                android:textSize="24dp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
+

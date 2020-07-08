@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AzkarSabah1">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text="الحمد لله وحده ، والصلاة والسلام على من لا نبي بعده"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView34"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="TextView" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text="أعوذ بالله من الشيطان الرجيم { اللّهُ لاَ إِلَـهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ مَن ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلاَّ بِمَا شَاء وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالأَرْضَ وَلاَ يَؤُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ "
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView35"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="TextView" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text=" بسم الله الرحمن الرحيم{ قُلْ هُوَ اللَّهُ أَحَدٌ*اللَّهُ الصَّمَدُ*لَمْ يَلِدْ وَلَمْ يُولَدْ * وَلَمْ يَكُن لَّهُ كُفُواً أَحَدٌ} بسم الله الرحمن الرحيم {قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ * مِن شَرِّ مَا خَلَقَ *وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ * وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ * وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ } بسم الله الرحمن الرحيم { قُلْ أَعُوذُ بِرَبِّ النَّاسِ * مَلِكِ النَّاسِ * إِلَهِ النَّاسِ *مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ * الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ * مِنَ الْجِنَّةِ وَالنَّاسِ }(ثلاث مرات )"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView36"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="TextView" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text='" أصبحنا وأصبح الملك لله، والحمد لله، لا إله إلا الله وحده لا شريك له، له الملك وله الحمد وهو على كل شيء قدير، ربِّ أسألك خير ما في هذا اليوم وخير ما بعده وأعوذ بك من شر ما في هذا اليوم وشر ما بعده ربِّ أعوذ بك من الكسل وسوء الكبر، ربَّ أعوذ بك من عذابٍ في النار وعذاب في القبر" وإذا أمسي قال ذلك أيضا : " أمسينا وأمسي الملك لله ".'
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text='"اللهم بك أصبحنا وبك أمسينا وبك نحيا وبك نموت وإليك النشور"   وإذا أمسي فليقل : " اللهم بك أمسينا، وبك أصبحنا، وبك نحيا وبك نموت، وإليك المصير ".'
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text='"اللهم أنت ربي لا إله إلا أنت خَلَقتني وأنا عَبْدُك وأنا على عهدك ووعدك ما استطعت أعوذ بك من شر ما صنعت أبوء لك بنعمتك علي وأبوء بذنبي فاغفر لي فإنه لا يغفر الذنوب إلا أنت'
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text='اللهم إني أصبحت  أشهدك وأشهد حملة عرشك ، وملائكتك وجميع خلقك ، أنك أنت الله لا إله إلا أنت وحدك لا شريك لك ، وأن محمداً عبدك ورسولك" ( أربع مرات )'
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text="اللهم ما أصبح بي من نعمة أو بأحد من خلقك فمنك وحدك لا شريك لك ، فلك الحمد ولك الشكر"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView26"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text='"اللهم أنت ربي لا إله إلا أنت خَلَقتني وأنا عَبْدُك وأنا على عهدك ووعدك ما استطعت أعوذ بك من شر ما صنعت أبوء لك بنعمتك علي وأبوء بذنبي فاغفر لي فإنه لا يغفر الذنوب إلا أنت'
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView27"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text='" أصبحنا وأصبح الملك لله[4]، والحمد لله، لا إله إلا الله وحده لا شريك له، له الملك وله الحمد وهو على كل شيء قدير، ربِّ أسألك خير ما في هذا اليوم وخير ما بعده[5] وأعوذ بك من شر ما في هذا اليوم وشر ما بعده ربِّ أعوذ بك من الكسل وسوء الكبر، ربَّ أعوذ بك من عذابٍ في النار وعذاب في القبر
+                 وإذا أمسي قال ذلك أيضا : " أمسينا وأمسي الملك لله ".'
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView28"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text="أعوذ بالله من الشيطان الرجيم { اللّهُ لاَ إِلَـهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ مَن ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلاَّ بِمَا شَاء وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالأَرْضَ وَلاَ يَؤُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ "
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView29"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text='اللهم إني أصبحت  أشهدك وأشهد حملة عرشك ، وملائكتك وجميع خلقك ، أنك أنت الله لا إله إلا أنت وحدك لا شريك لك ، وأن محمداً عبدك ورسولك" ( أربع مرات )'
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView30"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text="الحمد لله وحده ، والصلاة والسلام على من لا نبي بعده"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView31"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text="اللهم ما أصبح بي من نعمة أو بأحد من خلقك فمنك وحدك لا شريك لك ، فلك الحمد ولك الشكر"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView32"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text='"اللهم بك أصبحنا وبك أمسينا وبك نحيا وبك نموت وإليك النشور"   وإذا أمسي فليقل : " اللهم بك أمسينا، وبك أصبحنا، وبك نحيا وبك نموت، وإليك المصير ".'
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView33"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text=" بسم الله الرحمن الرحيم{ قُلْ هُوَ اللَّهُ أَحَدٌ*اللَّهُ الصَّمَدُ*لَمْ يَلِدْ وَلَمْ يُولَدْ * وَلَمْ يَكُن لَّهُ كُفُواً أَحَدٌ} بسم الله الرحمن الرحيم {قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ * مِن شَرِّ مَا خَلَقَ *وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ * وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ * وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ } بسم الله الرحمن الرحيم{ قُلْ أَعُوذُ بِرَبِّ النَّاسِ * مَلِكِ النَّاسِ * إِلَهِ النَّاسِ *مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ * الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ * مِنَ الْجِنَّةِ وَالنَّاسِ }(ثلاث مرات )"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text='"اللهم عافني في بَدَني، اللهم عافني في سمعي، اللهم عافني في بصري، لا إله إلا أنت .اللهم إني أعوذ بك من الكفر، والفقر، اللهم إني أعوذ بك من عذاب القبر لا إله إلا أنت" (ثلاث مرات)'
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text="TextView"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp"
+                tools:text='"حسبي الله لا إله إلا هو عليه توكلت وهو رب العرش العظيم "(سبع مرات )' />
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text='"اللهم إني أسألك العفو والعافية في الدنيا والآخرة، اللهم إني أسألك العفو والعافية في ديني ودنياي وأهلي ومالي،اللهم استر عوراتي وآمن روعاتي، اللهم احفظني من بين يديَّ ومن خلفي وعن يميني وعن شمالي ومن فوقي وأعوذ بعظمتك أن أغتال من تحتي'
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text='"اللهم عَالِمَ الغيب والشَّهادة، فاطر السموات والأرض، رب كل شيء ومليكه، أشهد أن لا إله إلا أنت أعوذ بك من شر نفسي ومن شر الشيطان وشركه وأن اقترف على نفسي سوءًا أو أجُره إلى مسلم'
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text='" بسم الله الذي لا يضرُّ مع اسمه شيء في الأرض ولا في السماء وهو السميع العليم" ( ثلاث مرات)'
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text='رضيت بالله رباً ، وبالإسلام ديناً وبمحمد صلى الله عليه وسلم نبياً " (ثلاث مرات) '
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text=' "يا حي يا قيوم برحمتك أستغيث أصلح لي شأني كُله ولا تَكِلْني إلى نفسي طرفة عين"'
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text=' أصبحنا وأصبح الملك لله رب العالمين ، اللهم إني أسألك خير هذا اليوم : فتحه، ونصره ،ونوره ،وبركته، وهداه، وأعوذ بك من شر ما فيه وشر ما بعده"'
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text='"أصبحنا على فطرة الإسلام وعلى كلمة الإخلاص، وعلى دين نبيَّنا محمد صلى الله عليه وسلم وعلى ملَّة أبينا إبراهيم حنيفاً مسلماً وما كان من المشركين"'
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text='"سبحان الله وبحمده"(مائة مرة )'
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text='"لا إله إلا الله وحده لا شريك له ،له الملك وله الحمد وهو على كل شيء قدير"( عشر مرات)
+
+                 و مرة واحدة عند الكسل)'
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text='" لا إله إلا الله وحده لا شريك له ،له الملك وله الحمد وهو على كل شيء قدير"(مائة مرة إذا أصبح )'
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView21"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text='"سبحان الله وبحمده عدد خلقهِ ورِضَا نفسِهِ وزِنُة عَرشِهِ ومِداد كلماته"( ثلاث مرات إذا أصبح )'
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView22"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text='" اللهم إني أسألك علماً نافعاً ، ورزقاً طيباً ، وعملاً متقبلاً " ( إذا أصبح ) '
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView23"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text='"أستغفر الله وأتوب إليه " (مائة مرة في اليوم )'
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView24"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text='"أعوذ بكلمات الله التامات من شر ما خلق" ( ثلاث مرات إذا أمسى)'
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/textView25"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:text='"أعوذ بكلمات الله التامات من شر ما خلق" ( ثلاث مرات إذا أمسى)'
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="24dp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

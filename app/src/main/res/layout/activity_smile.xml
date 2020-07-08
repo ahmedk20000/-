@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Smile">
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        app:srcCompat="@drawable/smile1" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/s1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:background="#FFFFFF"
+                android:text="دعاء قضاء الدين"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/s2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:background="#FFFFFF"
+                android:text="دعاء من أصيب بمصيبة"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/s3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:background="#FFFFFF"
+                android:text="دعاء من أصابه وسوسة في الإيمان"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/s4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:background="#FFFFFF"
+                android:text="دعاء الخوف من الشرك"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/s5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:background="#FFFFFF"
+                android:text="دعاء كراهية الطيرة"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/s6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:background="#FFFFFF"
+                android:text="مايقال عند الفزع"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/s7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:background="#FFFFFF"
+                android:text="مايقال من أتاه أمر يسره"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/s8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:background="#FFFFFF"
+                android:text="مايقال عند التعجب والأمر السار"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/s9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:background="#FFFFFF"
+                android:text="مايقال من أتاه أمر يسره أو يكرهه"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/s10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:background="#FFFFFF"
+                android:text="مايقول من خاف قوما"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/s11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:background="#FFFFFF"
+                android:text="الدعاء علي العدو"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/s12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:background="#FFFFFF"
+                android:text="دعاء من خاف ظلم السلطان"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/s13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:background="#FFFFFF"
+                android:text="دعاء لقاء العدو وذي السلطان"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/s14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:background="#FFFFFF"
+                android:text="دعاء الكرب"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/s15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:background="#FFFFFF"
+                android:text="دعاء الهم والحزن"
+                android:textSize="24dp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

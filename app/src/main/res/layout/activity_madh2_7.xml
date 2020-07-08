@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/Next_7"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="6dp"
+    android:background="@drawable/ic_prayo"
+    android:baselineAligned="true"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".madh2_7">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView42"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:lineSpacingExtra="8sp"
+                android:padding="20dp"
+                android:text="@string/madh2_7_Text"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textSize="25dp"
+                app:fontFamily="casual" />
+
+            <TextView
+                android:id="@+id/textView37"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:gravity="center"
+                android:hint="@string/madh2_7_Hint"
+                android:lineSpacingExtra="8sp"
+                android:padding="20dp"
+                android:textSize="20dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

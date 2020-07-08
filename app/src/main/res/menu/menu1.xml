@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item android:id="@+id/Menu_home"
+    android:title="فضل الذكر"
+
+    android:icon="@drawable/ic_browser"
+
+    app:showAsAction="withText"
+    > </item>
+
+
+
+
+    <item android:id="@+id/Menu_AboutUs"
+        android:title="عن التطبيق"
+        android:icon="@drawable/ic_question"
+        app:showAsAction="withText"
+        > </item>
+    <item android:id="@+id/Menu_ContactUs"
+        android:title="التواصل معنا"
+        android:icon="@drawable/ic_facebook"
+        app:showAsAction="withText"
+        > </item>
+</menu>
